@@ -1,0 +1,376 @@
+[INFO] Error stacktraces are turned on.
+[INFO] Scanning for projects...
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building  CarnaticMusicWeb-0.0
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ CarnaticMusicWeb ---
+[INFO] Deleting D:\workspace\CarnaticMusicWeb\target
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ CarnaticMusicWeb ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] Copying 1 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:2.5.1:compile (default-compile) @ CarnaticMusicWeb ---
+[WARNING] File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+[INFO] Compiling 67 source files to D:\workspace\CarnaticMusicWeb\target\classes
+[WARNING] bootstrap class path not set in conjunction with -source 1.6
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\dao\ProfileDAO.java:[57,20] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\dao\ProfileDAO.java:[58,20] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\dao\ProfileDAO.java:[59,20] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\dao\ProfileDAO.java:[60,20] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\dao\ProfileDAO.java:[62,20] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\dao\ProfileDAO.java:[64,17] [unchecked] unchecked call to add(E) as a member of the raw type ArrayList
+[WARNING]   where E is a type-variable:
+    E extends Object declared in class ArrayList
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\dao\ProfileDAO.java:[65,20] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\dao\ProfileDAO.java:[68,19] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\dao\ProfileDAO.java:[70,16] [unchecked] unchecked call to add(E) as a member of the raw type ArrayList
+[WARNING]   where E is a type-variable:
+    E extends Object declared in class ArrayList
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\dao\ProfileDAO.java:[71,19] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\dao\ProfileDAO.java:[90,20] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\dao\ProfileDAO.java:[91,20] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\dao\ProfileDAO.java:[92,20] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\dao\ProfileDAO.java:[93,20] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\dao\ProfileDAO.java:[95,20] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\dao\ProfileDAO.java:[97,17] [unchecked] unchecked call to add(E) as a member of the raw type ArrayList
+[WARNING]   where E is a type-variable:
+    E extends Object declared in class ArrayList
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\dao\ProfileDAO.java:[98,20] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\dao\ProfileDAO.java:[101,19] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\dao\ProfileDAO.java:[103,16] [unchecked] unchecked call to add(E) as a member of the raw type ArrayList
+[WARNING]   where E is a type-variable:
+    E extends Object declared in class ArrayList
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\dao\ProfileDAO.java:[104,19] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\DerbyConnection.java:[140,29] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\DerbyConnection.java:[141,29] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\DerbyConnection.java:[142,29] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\DerbyConnection.java:[143,29] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\DerbyConnection.java:[144,29] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\DerbyConnection.java:[145,29] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\DerbyConnection.java:[146,29] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\DerbyConnection.java:[147,29] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\DerbyConnection.java:[148,29] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\DerbyConnection.java:[149,28] [unchecked] unchecked call to add(E) as a member of the raw type ArrayList
+[WARNING]   where E is a type-variable:
+    E extends Object declared in class ArrayList
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\DerbyConnection.java:[151,31] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\DerbyConnection.java:[296,32] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\DerbyConnection.java:[297,32] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\DerbyConnection.java:[298,32] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\DerbyConnection.java:[299,32] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\DerbyConnection.java:[300,32] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\DerbyConnection.java:[301,32] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\DerbyConnection.java:[302,32] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\DerbyConnection.java:[307,16] [unchecked] unchecked call to add(E) as a member of the raw type ArrayList
+[WARNING]   where E is a type-variable:
+    E extends Object declared in class ArrayList
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\DerbyConnection.java:[308,22] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\DerbyConnection.java:[309,22] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\DerbyConnection.java:[360,28] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\DerbyConnection.java:[362,29] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\DerbyConnection.java:[363,29] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\DerbyConnection.java:[364,29] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\DerbyConnection.java:[365,29] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\DerbyConnection.java:[366,29] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\DerbyConnection.java:[367,29] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\DerbyConnection.java:[368,29] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\DerbyConnection.java:[369,29] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\DerbyConnection.java:[370,29] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\DerbyConnection.java:[371,29] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\DerbyConnection.java:[372,29] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\DerbyConnection.java:[373,29] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\DerbyConnection.java:[374,29] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\DerbyConnection.java:[375,29] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\DerbyConnection.java:[379,25] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\DerbyConnection.java:[381,16] [unchecked] unchecked call to add(E) as a member of the raw type ArrayList
+[WARNING]   where E is a type-variable:
+    E extends Object declared in class ArrayList
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\DerbyConnection.java:[382,19] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\DerbyConnection.java:[393,32] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\DerbyConnection.java:[395,17] [unchecked] unchecked call to add(E) as a member of the raw type ArrayList
+[WARNING]   where E is a type-variable:
+    E extends Object declared in class ArrayList
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\db\DerbyConnection.java:[396,20] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\carnatic\util\Utility.java:[196,18] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\carnatic\util\Utility.java:[201,19] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\carnatic\util\Utility.java:[202,19] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\carnatic\util\Utility.java:[203,19] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\carnatic\util\Utility.java:[204,19] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\carnatic\util\Utility.java:[205,19] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\carnatic\util\Utility.java:[206,16] [unchecked] unchecked call to add(E) as a member of the raw type ArrayList
+[WARNING]   where E is a type-variable:
+    E extends Object declared in class ArrayList
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\carnatic\util\Utility.java:[211,19] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\carnatic\util\Utility.java:[212,16] [unchecked] unchecked call to add(E) as a member of the raw type ArrayList
+[WARNING]   where E is a type-variable:
+    E extends Object declared in class ArrayList
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\carnatic\util\Utility.java:[215,18] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\carnatic\util\Utility.java:[221,19] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\carnatic\util\Utility.java:[222,19] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\carnatic\util\Utility.java:[223,19] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\carnatic\util\Utility.java:[224,19] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\carnatic\util\Utility.java:[225,19] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\carnatic\util\Utility.java:[226,25] [unchecked] unchecked call to add(E) as a member of the raw type ArrayList
+[WARNING]   where E is a type-variable:
+    E extends Object declared in class ArrayList
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\carnatic\util\Utility.java:[231,19] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\carnatic\util\Utility.java:[232,25] [unchecked] unchecked call to add(E) as a member of the raw type ArrayList
+[WARNING]   where E is a type-variable:
+    E extends Object declared in class ArrayList
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\carnatic\util\Utility.java:[236,21] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\carnatic\util\Utility.java:[242,19] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\carnatic\util\Utility.java:[243,19] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\carnatic\util\Utility.java:[244,19] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\carnatic\util\Utility.java:[245,19] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[WARNING]   where K,V are type-variables:
+    K extends Object declared in class HashMap
+    V extends Object declared in class HashMap
+D:\workspace\CarnaticMusicWeb\src\main\java\com\dd\music\carnatic\util\Utility.java:[246,19] [unchecked] unchecked call to put(K,V) as a member of the raw type HashMap
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ CarnaticMusicWeb ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] Copying 1 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:2.5.1:testCompile (default-testCompile) @ CarnaticMusicWeb ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ CarnaticMusicWeb ---
+[INFO] 
+[INFO] --- maven-war-plugin:2.2:war (default-war) @ CarnaticMusicWeb ---
+[INFO] Packaging webapp
+[INFO] Assembling webapp [CarnaticMusicWeb] in [D:\workspace\CarnaticMusicWeb\target\CarnaticMusicWeb]
+[INFO] Processing war project
+[INFO] Copying webapp resources [D:\workspace\CarnaticMusicWeb\src\main\webapp]
+[INFO] Webapp assembled in [8564 msecs]
+[INFO] Building war: D:\workspace\CarnaticMusicWeb\target\CarnaticMusicWeb.war
+[INFO] WEB-INF\web.xml already added, skipping
+[INFO] 
+[INFO] --- maven-install-plugin:2.4:install (default-install) @ CarnaticMusicWeb ---
+[INFO] Installing D:\workspace\CarnaticMusicWeb\target\CarnaticMusicWeb.war to C:\Users\1\.m2\repository\com\dd\CarnaticMusicWeb\CarnaticMusicWeb-0.0\CarnaticMusicWeb-CarnaticMusicWeb-0.0.war
+[INFO] Installing D:\workspace\CarnaticMusicWeb\pom.xml to C:\Users\1\.m2\repository\com\dd\CarnaticMusicWeb\CarnaticMusicWeb-0.0\CarnaticMusicWeb-CarnaticMusicWeb-0.0.pom
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 31.431 s
+[INFO] Finished at: 2018-05-29T17:48:48+05:30
+[INFO] Final Memory: 22M/224M
+[INFO] ------------------------------------------------------------------------
